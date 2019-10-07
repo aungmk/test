@@ -1,14 +1,24 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"reqinstid": "1",
+"reqinstssn": "1DB79905-B278-4C5C-BC70-171DE0787F95",
+"reqdate": "10/1/2019",
+"reqtime": "10:10:10",
+"censeq": "1",
+"txncode": "5163",
+"cardno": "4326523453245",
+"txndate": "10/1/2019",
+"txntime": "12:10:05",
+"cardpdpt": "1500",
+"befbal": "10000",
+"txnamt": "10000",
+"aftbal": "11500",
+"txnmchntcd": "16",
+"txnmchntname": "YBS",
+"txnnetcd": "1",
+"txnnetname": "innomax",
+"termid": "1",
+"termseq": "2134",
+"txnoprid": "2",
+"txnoprname": "test",
+"sign": "f8740239d89deb35d557f7b3c81a8be053832149012d995388e41cabe2443af9"
 }
